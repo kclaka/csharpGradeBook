@@ -94,3 +94,6 @@ C:\code\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.csproj.C
 C:\code\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.dll
 C:\code\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.pdb
 C:\code\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.genruntimeconfig.cache
+C:\code\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.exe
+C:\code\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.dll
+C:\code\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.pdb
